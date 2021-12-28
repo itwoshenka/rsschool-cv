@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <title> CV Титов Илья </title>
+<link rel="stylesheet" href="Design.css" type="text/css">
 <style type="text/css">
     .font{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
