@@ -5,7 +5,7 @@
     text-decoration: none;
 }
 a{
-    color: black;
+    color: #5a5d61;
     text-decoration: none;
 }
 a:hover{
@@ -92,4 +92,26 @@ width: 100%;
     border-radius: 15px;
     background-color: oldlace;
     margin: auto;
+}
+.footer {
+    display: flex;
+    flex-direction: row-reverse;
+}
+.github {
+    margin-right: 15px;
+}
+#submitbutton:hover {
+    background-color: snow;
+}
+#submitbutton {
+    width: 100px;
+    height: 40px;
+    border: wheat double 2px;
+    border-radius: 15px;
+    background-color: wheat;
+    margin: auto;
+    font-size: 14px;
+}
+.name_year {
+    margin-right: 15px;
 }
