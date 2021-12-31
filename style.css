@@ -102,6 +102,7 @@ width: 100%;
 }
 #submitbutton:hover {
     background-color: snow;
+    cursor: pointer;
 }
 #submitbutton {
     width: 100px;
